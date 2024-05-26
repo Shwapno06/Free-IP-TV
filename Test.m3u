@@ -39,8 +39,6 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/85GwNPPw/Enterr10-Bangla.jpg",Enterr10 Bangla [SamsungTVPlus]
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://i.ibb.co/s1GvyB2/images-1.png",এখন
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
@@ -48,7 +46,6 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-id="Free-IP-TV" tvg-group="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qr9RqMX/download.png",Aamar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-
 
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Cartoon" tvg-logo="https://images.app.goo.gl/hHt7oGdGGHqoXGLi8",Kids Creasion
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
@@ -69,7 +66,6 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Cartoon" tvg-logo="https://images.app.goo.gl/hHt7oGdGGHqoXGLi8",Kids Flix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-
 #EXTINF:-1 tvg-id="Shwapno06" tvg-group="Infotainment" tvg-logo="https://i.ibb.co/4g7yTFj/images-3.png",Discovery HD বাংলা
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
@@ -82,4 +78,3 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 #EXTINF:-1 tvg-id="Free-IP-TV" tvg-group="Hindi" tvg-logo="https://images.app.goo.gl/hHt7oGdGGHqoXGLi8",Sony Max
 http://170.254.18.107/SONYMAX/index.m3u8
-
