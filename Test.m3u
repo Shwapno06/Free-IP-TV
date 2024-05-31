@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynVpuJalJVCQisP6H1ln1uxIIGrx_0wB1HMQ-7aF3YA&s",T Sports
+https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynVpuJalJVCQisP6H1ln1uxIIGrx_0wB1HMQ-7aF3YA&s",STAR JALSHA HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/95769
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",ZEE বাংলা সিনেমা
