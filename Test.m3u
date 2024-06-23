@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://ibb.co/VVL6TzQ",WILLOW
+#EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://ibb.co/VVL6TzQ",WILLOW
 https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
 
-#EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://ibb.co/PtqF0Ms",WILLOW Xtra
+#EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://ibb.co/PtqF0Ms",WILLOW Xtra
 https://beecdn.wadim77289.workers.dev/Willow_Extra_Live_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" ,DD Sports
