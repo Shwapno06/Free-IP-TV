@@ -57,10 +57,99 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/eurosport-hd/index.ts
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png" ,Eurosport
 https://tplay.dinesh29.com.np/live/tataplay-universal/eurosport/index.ts
 
-#EXTINF:-1 tvg-id="697" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="TS-JioTV SonyLIV",SONY AATH 
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 ,Live Tv
-https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc_video_18_0_1232983.mp4?m=1717544945
+#EXTINF:-1 tvg-id="us_comcastsnynewyorksportsnet.us" tvg-logo="" group-title="SPORTS",SNY NEW YORK SPORTSNET FHD 
+https://allinonereborn.in/doordarshan125.m3u8?id=7234
+#EXTINF:-1 tvg-id="ca_fightnetwork.ca" tvg-logo="" group-title="SPORTS",FIGHT NETWORK 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=7245
+#EXTINF:-1 tvg-id="us_goltv.us" tvg-logo="" group-title="SPORTS",GOL TV 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=7236
+#EXTINF:-1 tvg-id="us_nbatv.us" tvg-logo="" group-title="SPORTS",NBA TV USA HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5255
+#EXTINF:-1 tvg-id="ca_nbatv.ca" tvg-logo="" group-title="SPORTS",NBA TV CANADA 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5254
+#EXTINF:-1 tvg-id="ca_tsn1.ca" tvg-logo="" group-title="SPORTS",TSN 1 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5322
+#EXTINF:-1 tvg-id="ca_tsn2.ca" tvg-logo="" group-title="SPORTS",TSN 2 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5333
+#EXTINF:-1 tvg-id="ca_tsn3.ca" tvg-logo="" group-title="SPORTS",TSN 3 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5335
+#EXTINF:-1 tvg-id="ca_tsn4.ca" tvg-logo="" group-title="SPORTS",TSN 4 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5349
+#EXTINF:-1 tvg-id="ca_tsn5.ca" tvg-logo="" group-title="SPORTS",TSN 5 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5321
+#EXTINF:-1 tvg-id="us_nflnetwork.us" tvg-logo="" group-title="SPORTS",NFL NETWORK HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5034
+#EXTINF:-1 tvg-id="us_nflredzone.us" tvg-logo="" group-title="SPORTS",NFL REDZONE HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5035
+#EXTINF:-1 tvg-id="us_nflredzone.us" tvg-logo="" group-title="SPORTS",NFL REDZONE 
+https://allinonereborn.in/doordarshan125.m3u8?id=5650
+#EXTINF:-1 tvg-id="uk_skysportsmainevent.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS MAIN EVENT 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5311
+#EXTINF:-1 tvg-id="uk_skysportspremiereleague.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5304
+#EXTINF:-1 tvg-id="uk_skysportsgolf.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS GOLF 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5342
+#EXTINF:-1 tvg-id="uk_skysportsaction.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS ACTION 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5315
+#EXTINF:-1 tvg-id="uk_skysportsf1.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS F1 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5316
+#EXTINF:-1 tvg-id="uk_skysportsfootball.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS FOOTBALL 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5312
+#EXTINF:-1 tvg-id="uk_skysportsnews.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS NEWS 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5310
+#EXTINF:-1 tvg-id="uk_skysportsarena.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS AREANA 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5314
+#EXTINF:-1 tvg-id="uk_skysportsmix.uk" tvg-logo="" group-title="SPORTS",SKY SPORTS MIX 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5317
+#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-logo="" group-title="SPORTS",NBC GOLF 
+https://allinonereborn.in/doordarshan125.m3u8?id=5539
+#EXTINF:-1 tvg-id="us_golfchannel.us" tvg-logo="" group-title="SPORTS",THE GOLF CHANNEL HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5250
+#EXTINF:-1 tvg-id="us_wwe.us" tvg-logo="" group-title="SPORTS",WWE NETWORK 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=5332
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",B TV 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=7240
+#EXTINF:-1 tvg-id="uk_boxnation.uk" tvg-logo="" group-title="SPORTS",BOX NATION 
+https://allinonereborn.in/doordarshan125.m3u8?id=5346
+#EXTINF:-1 tvg-id="us_bigtennetwork.us" tvg-logo="" group-title="SPORTS",BIG TEN NETWORK HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5216
+#EXTINF:-1 tvg-id="us_gameplus.us" tvg-logo="" group-title="SPORTS",FNTSY SPORTS NETWORK 4K (GAME PLUS) 
+https://allinonereborn.in/doordarshan125.m3u8?id=5219
+#EXTINF:-1 tvg-id="us_longhonrnetwork.us" tvg-logo="" group-title="SPORTS",LONGHORN NETWORK HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5251
+#EXTINF:-1 tvg-id="us_nhlnetwork.us" tvg-logo="" group-title="SPORTS",NHL NETWORK HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5252
+#EXTINF:-1 tvg-id="us_nhlnetwork.us" tvg-logo="" group-title="SPORTS",NHL NETWORK ALTERNATE HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5253
+#EXTINF:-1 tvg-id="us_olympicchannel.us" tvg-logo="" group-title="SPORTS",OLYMPIC CHANNEL HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5256
+#EXTINF:-1 tvg-id="us_secnetwork.us" tvg-logo="" group-title="SPORTS",SEC NETWORK HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5257
+#EXTINF:-1 tvg-id="ca_tvasports.ca" tvg-logo="" group-title="SPORTS",TVA SPORTS HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5293
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",CHELSEA SPORTS TV HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5303
+#EXTINF:-1 tvg-id="uk_mutv.uk" tvg-logo="" group-title="SPORTS",MUTV SPORTS HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5300
+#EXTINF:-1 tvg-id="uk_racinguk.uk" tvg-logo="" group-title="SPORTS",RACING UK HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=5214
+#EXTINF:-1 tvg-id="us_tvg.us" tvg-logo="" group-title="SPORTS",TVG NETWORK HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=3910
+#EXTINF:-1 tvg-id="us_tvg2.us" tvg-logo="" group-title="SPORTS",TVG 2 NETWORK HD 
+https://allinonereborn.in/doordarshan125.m3u8?id=3911
+#EXTINF:-1 tvg-id="racing.com.au" tvg-logo="" group-title="SPORTS",RACING AUSTRALIA 
+https://allinonereborn.in/doordarshan125.m3u8?id=5358
+#EXTINF:-1 tvg-id="rush.nz" tvg-logo="" group-title="SPORTS",RUSH TV PREMIER LEAGUE SOCCER 
+https://allinonereborn.in/doordarshan125.m3u8?id=4854
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",NESN 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=4963
+#EXTINF:-1 tvg-id="us_newenglandsportsnetworkplus.us" tvg-logo="" group-title="SPORTS",NESN PLUS 4K 
+https://allinonereborn.in/doordarshan125.m3u8?id=4848
+#EXTINF:-1 tvg-id="us_tvg.us" tvg-logo="" group-title="SPORTS",TVG NETWORK 
+https://allinonereborn.in/doordarshan125.m3u8?id=5873
+#EXTINF:-1 tvg-id="us_yesnetwork.us" tvg-logo="" group-title="SPORTS",YES NETWORK 
+https://allinonereborn.in/doordarshan125.m3u8?id=7169
+
 #EXTINF:-1 ,EURO SPORTS HD
 http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:-1 ,FIFA PLUS
