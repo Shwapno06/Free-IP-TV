@@ -45,6 +45,32 @@ http://170.254.18.106/MTV/index.m3u8
 https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://image.tsports.com/images/mobile_logo/1716750963-LIVE.jpg",T 20 IPL Server-1
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" ,Colors Bangla HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/colors-bangla-hd/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" ,Colors Bangla
+https://tplay.dinesh29.com.np/live/tataplay-universal/colors-bangla/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" ,Zee Bangla HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bangla-hd/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" ,Star Jalsha HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/star-jalsha-hd/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" ,SONY AATH
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-267-j5j8x17s-v1/imageContent-267-j5j8x17s-m2.png" ,Aakaash Aath
+https://tplay.dinesh29.com.np/live/tataplay-universal/aakaash-aath/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" ,Ruposhi Bangla
+https://tplay.dinesh29.com.np/live/tataplay-universal/ruposhi-bangla/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" ,Enterr10 Bangla
+https://tplay.dinesh29.com.np/live/tataplay-universal/enterr10-bangla/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" ,Jalsha Movies HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/jalsha-movies-hd/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" ,Zee Bangla Cinema
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bangla-cinema/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v6/CLRBANG_Thumbnail.png" ,Colors Bangla Cinema
+https://tplay.dinesh29.com.np/live/tataplay-universal/colors-bangla-cinema/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" ,Khushboo Bangla
+https://tplay.dinesh29.com.np/live/tataplay-universal/khushboo-bangla/index.ts
+
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynVpuJalJVCQisP6H1ln1uxIIGrx_0wB1HMQ-7aF3YA&s",STAR JALSHA HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/95769
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynVpuJalJVCQisP6H1ln1uxIIGrx_0wB1HMQ-7aF3YA&s",Colors বাংলা
@@ -96,6 +122,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF:-1 tvg-id="Shwapno06" tvg-group="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qr9RqMX/download.png",Aamar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="Cartoon" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png" ,Tata Play Toons+
+https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-toons-3/index.ts
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Cartoon" tvg-logo="https://images.app.goo.gl/hHt7oGdGGHqoXGLi8",Kids Creasion
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Cartoon" tvg-logo="https://i.ibb.co/1XsGsgq/IMG-20240129-070805.jpg",Nick BANGLA
