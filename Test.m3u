@@ -55,19 +55,6 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/eurosport-hd/index.ts
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png" ,Eurosport
 https://tplay.dinesh29.com.np/live/tataplay-universal/eurosport/index.ts
 
-#EXTINF:-1 tvg-id="SonySportsTen5.in" user-agent="stream",Live Sports
-https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen1.in",Sony Sports Ten 1 (1080p)
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in",Sony Sports TEN 2 HD (1080p)
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3.in",Sony Sports Ten 3 HD (1080p)
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen4.in",Sony Sports Ten 4 HD (1080p)
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen5.in",Sony Sports Ten 5 HD (1080p)
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
 #EXTINF:-1 tvg-id="697" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="TS-JioTV SonyLIV",SONY AATH 
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF:-1 ,Live Tv
