@@ -201,6 +201,8 @@ https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
 
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" ,Colors Bangla HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/colors-bangla-hd/index.ts
+#EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" ,Colors Bangla HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" ,Colors Bangla
 https://tplay.dinesh29.com.np/live/tataplay-universal/colors-bangla/index.ts
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" ,Zee Bangla HD
