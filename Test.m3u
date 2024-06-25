@@ -1,35 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="SERVER 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 1
-https://allinonereborn.tech/opplex1.php?id=220059
-
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="SERVER 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 2
-https://allinonereborn.tech/opplex1.php?id=220060
-
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="SERVER 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 3
-https://allinonereborn.tech/opplex1.php?id=220061
-
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="SERVER 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 4
-https://allinonereborn.tech/opplex1.php?id=220062
-
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="SERVER 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 5
-https://allinonereborn.tech/opplex1.php?id=220063
-
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="SERVER 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 6
-https://allinonereborn.tech/opplex1.php?id=220064
-
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="SERVER 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 7
-https://allinonereborn.tech/opplex1.php?id=220065
-
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET",Astro Cricket HD
-https://allinonereborn.tech/opplex1.php?id=167581
-
+#EXTINF:-1 tvg-id="" tvg-logo=""8082 group-title="Bangla",T Sports 
+https://allinonereborn.in/allinone.php?id=55567
 #EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Cricket HD
 https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
 
 #EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Xtra
-https://allinonereborn.tech/opplex1.php?id=167582
-
+https://allinonereborn.in/allinone.php?id=55837
+#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-logo=""4708 group-title="Bangla",Star Sports -Hindi 
+https://allinonereborn.in/allinone.php?id=54059
+#EXTINF:-1 tvg-id="starsports1.in" tvg-logo=""1175 group-title="Bangla",Star Sports 1 HD 
+https://allinonereborn.in/allinone.php?id=57154
+#EXTINF:-1 tvg-id="starsports2.in" tvg-logo=""994 group-title="Bangla",Star Sports 2 HD 
+https://allinonereborn.in/allinone.php?id=45699
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" ,DD Sports
 https://tplay.dinesh29.com.np/live/tataplay-universal/dd-sports/index.ts
 
@@ -143,61 +126,84 @@ https://allinonereborn.in/doordarshan125.m3u8?id=5219
 https://allinonereborn.in/doordarshan125.m3u8?id=5251
 #EXTINF:-1 tvg-id="us_nhlnetwork.us" tvg-logo="" group-title="SPORTS",NHL NETWORK HD 
 https://allinonereborn.in/doordarshan125.m3u8?id=5252
-#EXTINF:-1 tvg-id="us_nhlnetwork.us" tvg-logo="" group-title="SPORTS",NHL NETWORK ALTERNATE HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=5253
-#EXTINF:-1 tvg-id="us_olympicchannel.us" tvg-logo="" group-title="SPORTS",OLYMPIC CHANNEL HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=5256
-#EXTINF:-1 tvg-id="us_secnetwork.us" tvg-logo="" group-title="SPORTS",SEC NETWORK HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=5257
-#EXTINF:-1 tvg-id="ca_tvasports.ca" tvg-logo="" group-title="SPORTS",TVA SPORTS HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=5293
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",CHELSEA SPORTS TV HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=5303
-#EXTINF:-1 tvg-id="uk_mutv.uk" tvg-logo="" group-title="SPORTS",MUTV SPORTS HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=5300
-#EXTINF:-1 tvg-id="uk_racinguk.uk" tvg-logo="" group-title="SPORTS",RACING UK HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=5214
-#EXTINF:-1 tvg-id="us_tvg.us" tvg-logo="" group-title="SPORTS",TVG NETWORK HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=3910
-#EXTINF:-1 tvg-id="us_tvg2.us" tvg-logo="" group-title="SPORTS",TVG 2 NETWORK HD 
-https://allinonereborn.in/doordarshan125.m3u8?id=3911
-#EXTINF:-1 tvg-id="racing.com.au" tvg-logo="" group-title="SPORTS",RACING AUSTRALIA 
-https://allinonereborn.in/doordarshan125.m3u8?id=5358
-#EXTINF:-1 tvg-id="rush.nz" tvg-logo="" group-title="SPORTS",RUSH TV PREMIER LEAGUE SOCCER 
-https://allinonereborn.in/doordarshan125.m3u8?id=4854
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="SPORTS",NESN 4K 
-https://allinonereborn.in/doordarshan125.m3u8?id=4963
-#EXTINF:-1 tvg-id="us_newenglandsportsnetworkplus.us" tvg-logo="" group-title="SPORTS",NESN PLUS 4K 
-https://allinonereborn.in/doordarshan125.m3u8?id=4848
-#EXTINF:-1 tvg-id="us_tvg.us" tvg-logo="" group-title="SPORTS",TVG NETWORK 
-https://allinonereborn.in/doordarshan125.m3u8?id=5873
-#EXTINF:-1 tvg-id="us_yesnetwork.us" tvg-logo="" group-title="SPORTS",YES NETWORK 
-https://allinonereborn.in/doordarshan125.m3u8?id=7169
-
-#EXTINF:-1 ,EURO SPORTS HD
-http://54.39.17.6/eurosport/mono.m3u8
-#EXTINF:-1 ,FIFA PLUS
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-#EXTINF:-1 ,Test3
-http://170.254.18.106/VH1/index.m3u8
-#EXTINF:-1 ,Test sports 4k
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,Test sports2 4k
-https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1 ,Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Shemaroo Bollywood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 ,MTV Pluto TV
-https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
-#EXTINF:-1 ,MTV usTV
-http://170.254.18.106/MTV/index.m3u8
-#EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://image.tsports.com/images/mobile_logo/1716750963-LIVE.jpg",T Sports
-https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Shwapno06"tvg-group="Sports" tvg-logo="https://image.tsports.com/images/mobile_logo/1716750963-LIVE.jpg",T 20 IPL Server-1
-https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",T-sports 
+https://allinonereborn.in/allinone.php?id=57715
+#EXTINF:-1 tvg-id="" tvg-logo=""8973.png" group-title="Sports",Sky news HD 
+https://allinonereborn.in/allinone.php?id=57588
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-logo=""" group-title="Sports",Willow Cricket 
+https://allinonereborn.in/allinone.php?id=52484
+#EXTINF:-1 tvg-id="willowxtra.us" tvg-logo=""" group-title="Sports",Willow Extra HD 
+https://allinonereborn.in/allinone.php?id=52274
+#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-logo=""" group-title="Sports",Star Sports 1 Hindi HD 
+https://allinonereborn.in/allinone.php?id=57823
+#EXTINF:-1 tvg-id="starsports1.in" tvg-logo=""" group-title="Sports",Star Sports 1 ENG-HD 
+https://allinonereborn.in/allinone.php?id=54301
+#EXTINF:-1 tvg-id="" tvg-logo=""6874 group-title="Sports",Star Sports 2_HD 
+https://allinonereborn.in/allinone.php?id=51914
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo=""6879 group-title="Sports",Star Select 1 HD 
+https://allinonereborn.in/allinone.php?id=51919
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-logo=""6884 group-title="Sports",Star Select 2 HD 
+https://allinonereborn.in/allinone.php?id=57020
+#EXTINF:-1 tvg-id="" tvg-logo=""6899 group-title="Sports",Astro cricket HD 
+https://allinonereborn.in/allinone.php?id=51939
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo=""6904 group-title="Sports",Sky Cricket 
+https://allinonereborn.in/allinone.php?id=51944
+#EXTINF:-1 tvg-id="" tvg-logo=""6909.png" group-title="Sports",Sony Six 
+https://allinonereborn.in/allinone.php?id=56332
+#EXTINF:-1 tvg-id="" tvg-logo=""6919 group-title="Sports",DD SPORT 
+https://allinonereborn.in/allinone.php?id=51959
+#EXTINF:-1 tvg-id="" tvg-logo=""8523.jfif" group-title="Sports",A Sports 
+https://allinonereborn.in/allinone.php?id=56575
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports Midwest (wait to load) 
+https://allinonereborn.in/allinone.php?id=56451
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports North (Wait to load) 
+https://allinonereborn.in/allinone.php?id=56455
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports South (wait to load) 
+https://allinonereborn.in/allinone.php?id=56459
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports Southeast (wait to load) 
+https://allinonereborn.in/allinone.php?id=56463
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports Southwest 
+https://allinonereborn.in/allinone.php?id=56467
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports Southwest Plus 
+https://allinonereborn.in/allinone.php?id=56471
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports West 
+https://allinonereborn.in/allinone.php?id=56475
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports Sun 
+https://allinonereborn.in/allinone.php?id=56479
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports Prime 
+https://allinonereborn.in/allinone.php?id=56483
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bally Sports Soccer Plus 
+https://allinonereborn.in/allinone.php?id=56487
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",YES Network USA 
+https://allinonereborn.in/allinone.php?id=57608
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",BeinSport 1 (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=39313
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Bein Sport 2 (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=57805
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",BeinSport 3 (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=39323
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",BeinSport 4 (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=39328
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",BeinSport 5 (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=39333
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",BeinSport 6 (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=39338
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",BeinSport 7 (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=39343
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",BeinSport 8 (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=39348
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Rugby (Wait to load) 
+https://allinonereborn.in/allinone.php?id=55447
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Super Sports Laliga (wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=55452
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Super Sports Football (wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=55457
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Super Sports Maximo (wait to load) 
+https://allinonereborn.in/allinone.php?id=57636
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Super Sports Blitz (Wait 10s to load) 
+https://allinonereborn.in/allinone.php?id=57641
+#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",Premier League TV US 
+https://allinonereborn.in/allinone.php?id=57288
 
 #EXTINF:-1 tvg-id="Shwapno06"tvg-group="ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" ,Colors Bangla HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/colors-bangla-hd/index.ts
