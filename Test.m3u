@@ -1116,3 +1116,20 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 #EXTINF:-1 tvg-id="Free-IP-TV" tvg-group="Hindi" tvg-logo="https://images.app.goo.gl/hHt7oGdGGHqoXGLi8",Sony Max
 http://170.254.18.107/SONYMAX/index.m3u8
+
+
+/doordarshanz.m3u8?id=2682
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="PREMIUM MOVIES",CINESTAR TV FANTASY 
+https://allinonereborn.in/doordarshanz.m3u8?id=2686
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="PREMIUM MOVIES",CINESTAR TV PREMIERE 
+https://allinonereborn.in/doordarshanz.m3u8?id=2690
+#EXTINF:-1 tvg-id="us_turnerclassicmovies.us" tvg-logo="" group-title="PREMIUM MOVIES",TURNER CLASSIC MOVIES 4K 
+https://allinonereborn.in/doordarshanz.m3u8?id=2730
+#EXTINF:-1 tvg-id="ca_amc.ca" tvg-logo="" group-title="PREMIUM MOVIES",AMC 4K 
+https://allinonereborn.in/doordarshanz.m3u8?id=1421
+#EXTINF:-1 tvg-id="uk_rok.uk" tvg-logo="" group-title="PREMIUM MOVIES",ROK 
+https://allinonereborn.in/doordarshanz.m3u8?id=2768
+#EXTINF:-1 tvg-id="uk_cbsdrama.uk" tvg-logo="" group-title="PREMIUM MOVIES",CBS DRAMA 
+https://allinonereborn.in/doordarshanz.m3u8?id=2769
+#EXTINF:-1 tvg-id="uk_syfy.uk" tvg-logo="" group-title="PREMIUM MOVIES",SYFY HD 
+https://allinonereborn.in/doordarshanz.m3u8?id=1828
