@@ -1,58 +1,41 @@
 #EXTM3U
 
+
 #EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
-
-
 #EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
-
-
 #EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
-
-
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
-
-
 #EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="Sports",Canal+ Foot FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
-
-
 #EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="Sports",Canal+ Sport 360 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extension=ts&play_token=BUkrdm9NKD&sn2=
-
-
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport FHD"  group-title="Sports",Canal+ Sport FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
-
-
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
-
-
 #EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 FHD"  group-title="Sports",RMC Sport 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=ts&play_token=SdkGLGkoNA&sn2=
-
-
 #EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
-
 #EXTINF:-1 tvg-id="" tvg-logo=""8082 group-title="Bangla",T Sports 
 https://allinonereborn.in/allinone.php?id=55567
-#EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Cricket HD
-https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
-#EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Xtra
-https://allinonereborn.in/allinone.php?id=55837
 #EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",T-sports 
 https://allinonereborn.in/allinone.php?id=57715
-#EXTINF:-1 tvg-id="" tvg-logo=""8973.png" group-title="Sports",Sky news HD 
-https://allinonereborn.in/allinone.php?id=57588
+#EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Cricket HD
+https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
 #EXTINF:-1 tvg-id="willowcricket.us" tvg-logo=""" group-title="Sports",Willow Cricket 
 https://allinonereborn.in/allinone.php?id=52484
+#EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Xtra
+https://allinonereborn.in/allinone.php?id=55837
 #EXTINF:-1 tvg-id="willowxtra.us" tvg-logo=""" group-title="Sports",Willow Extra HD 
 https://allinonereborn.in/allinone.php?id=52274
+#EXTINF:-1 tvg-id="" tvg-logo=""8973.png" group-title="Sports",Sky news HD 
+https://allinonereborn.in/allinone.php?id=57588
+
 #EXTINF:-1 tvg-id="starsports1hindi.in" tvg-logo=""" group-title="Sports",Star Sports 1 Hindi HD 
 https://allinonereborn.in/allinone.php?id=57823
 #EXTINF:-1 tvg-id="starsports1.in" tvg-logo=""" group-title="Sports",Star Sports 1 ENG-HD 
@@ -61,15 +44,33 @@ https://allinonereborn.in/allinone.php?id=54301
 https://allinonereborn.in/allinone.php?id=51914
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo=""6879 group-title="Sports",Star Select 1 HD 
 https://allinonereborn.in/allinone.php?id=51919
+
+
+
+#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="NEWS INTERNASIONAL", Aljazeera HD 🛜
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜v
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="NEWS INTERNASIONAL", DW English 📶_📺
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="NEWS INTERNASIONAL", DW English 📺
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN FAST 🌏
+https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN International Europe 🌏
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="starsportsselect2.in" tvg-logo=""6884
-#EXTINF:-1 tvg-id="" tvg-logo=""8082 group-title="Bangla",T Sports 
-https://allinonereborn.in/allinone.php?id=55567
-#EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Cricket HD
-https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
-#EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Xtra
-https://allinonereborn.in/allinone.php?id=55837
-#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Sports",T-sports 
-https://allinonereborn.in/allinone.php?id=57715
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=""8973.png" group-title="Sports",Sky news HD 
 https://allinonereborn.in/allinone.php?id=57588
 #EXTINF:-1 tvg-id="willowcricket.us" tvg-logo=""" group-title="Sports",Willow Cricket 
