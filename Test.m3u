@@ -1,5 +1,60 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="223" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" ,DD Sports
+https://delta9tatasky.akamaized.net/out/i/2112645.mpd
+
+#EXTINF:-1 tvg-id="78" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" ,Star Sports 1 HD
+https://delta14tatasky.akamaized.net/out/i/7136433.mpd
+
+#EXTINF:-1 tvg-id="235" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" ,Star Sports 2 HD
+https://delta13tatasky.akamaized.net/out/i/2285199.mpd
+
+#EXTINF:-1 tvg-id="24" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" ,Star Sports 1 Hindi HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="246" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" ,Star Sports Select 1 HD
+https://delta14tatasky.akamaized.net/out/i/4779611.mpd
+
+#EXTINF:-1 tvg-id="463" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" ,Star Sports Select 2 HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="81" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" ,SONY SPORTS TEN 1 HD
+https://delta5tatasky.akamaized.net/out/i/8181868.mpd
+
+#EXTINF:-1 tvg-id="150" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" ,SONY SPORTS TEN 1
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="462" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" ,SONY SPORTS TEN 2 HD
+https://delta6tatasky.akamaized.net/out/i/3554785.mpd
+
+#EXTINF:-1 tvg-id="464" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" ,SONY SPORTS TEN 3 HD
+https://delta11tatasky.akamaized.net/out/i/5989228.mpd
+
+#EXTINF:-1 tvg-id="171" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" ,SONY SPORTS TEN 3
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="170" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png" ,SONY SPORTS TEN 2
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="35" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" ,SONY SPORTS TEN 5 HD
+https://delta9tatasky.akamaized.net/out/i/5742257.mpd
+
+#EXTINF:-1 tvg-id="1033" group-title="null - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" ,Sports 18 - 1 HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="812" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" ,Eurosport HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="980" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png" ,Sports 18 - 1
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="693" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png" ,Eurosport
+https://delta7tatasky.akamaized.net/out/i/4326706.mpd
+
+#EXTINF:-1 tvg-id="815" group-title="Sports - SabbirIPTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52856-k984c4vc-v1/imageContent-52856-k984c4vc-m1.png" ,1sports
+https://delta7tatasky.akamaized.net/out/i/4326721.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=""8082 group-title="Bangla",T Sports 
 https://allinonereborn.in/allinone.php?id=55567
 #EXTINF:-1 tvg-id="Shwapno06" tvg-group="Sports" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200",WILLOW Cricket HD
